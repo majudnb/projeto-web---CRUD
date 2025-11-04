@@ -42,7 +42,7 @@ Como rodar o projeto:
 C:\xampp\htdocs\
 
 5.No navegador, acesse:
-http://localhost/crud_livros/
+http://localhost/crud_livros-clientes/
 
 
 
